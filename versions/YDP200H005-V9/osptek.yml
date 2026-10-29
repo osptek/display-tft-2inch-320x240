@@ -1,0 +1,10 @@
+id: YDP200H005-V9
+category: displays
+size: "2"
+panel: tft
+resolution: 320x240
+interface: [mcu, spi]
+driver: null
+touch: null
+outline: 45.8 x 40.2 x 2.2 mm
+active_area: 40.8 x 30.6 mm

@@ -1,0 +1,10 @@
+id: YDP200B004-V4
+category: displays
+size: "2"
+panel: tft
+resolution: 320x240
+interface: [spi, rgb]
+driver: ILI9342C
+touch: null
+outline: 46.00 x 41.00 x 2.00 mm
+active_area: 40.80 x 30.60 mm
